@@ -1,12 +1,12 @@
 # Pikodex
 
 <aside>
-***In this project you will***: Build a wireframe, write CSS with Flexbox, generate HTML with Javascript, and write modular code
+<strong>In this project you will:</strong> Build a wireframe, write CSS with Flexbox, generate HTML with Javascript, and write modular code
 </aside>
 
 ## Gotta catch ‘em all! PIKOMON!!
 
-<img src="./assets/putron.png" width="200px" align="left" />
+<img src="./assets/putron.png" width="225px" align="left" />
 
 Tarmus, Flink, Putron, and more!! You’ve been hired to build an online *Pikodex* for the relatively new adventure, battle cartoon. 
 
