@@ -24,7 +24,7 @@ No doubt these Pikomon are *so* awesome that fans will come *swarming* once this
 >
 >The image for the Pikomon should be at the top. The name should be just beneath it. Beneath the name should be all the details for the pikomon.
 >
->The creators of Pikomon are really hurting for fans, so they need all the help they can get. Do as much as you can to bring them more attention: loud fonts, bright colors, shadows, rounded borders, and more. They wants you to have creative freedom, but if the site is just plain, all left aligned, black and white text… they’ll probably go out of business.
+>The creators of Pikomon are really hurting for fans, so they need all the help they can get. Do as much as you can to bring them more attention: loud fonts, bright colors, shadows, rounded borders, and more. They want you to have creative freedom, but if the site is just plain, all left aligned, black and white text… they’ll probably go out of business.
 > 
 
 Before you even think about coding, discuss and plan this project with your team. The first step of planning is to build a wireframe, this way you all have a clear goal in mind of what you’re building. Don’t worry about what colors or fonts you will use in the wireframe. Just create a general mockup of what the marketing team has described.
