@@ -72,3 +72,7 @@ const database = [
         weakness: 'Close Talkers'
     }
 ];
+
+export const pikomonData = () => {
+    return structuredClone(database)
+};
